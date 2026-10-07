@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-image
+PySide6
+imageio-ffmpeg
+pytest
+ruff

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.DS_Store
+demo/
+output/
+tmp/
+*.mat
+!tests/fixtures/*.mat
+*.editlog.jsonl*
